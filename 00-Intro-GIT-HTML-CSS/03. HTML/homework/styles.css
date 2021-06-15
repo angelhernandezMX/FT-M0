@@ -1,13 +1,13 @@
 #thirdDiv {
     color:yellow;
     font-size: 20px;
-    height: 600px;
+    height: 550px;
     width: 500px;
     background-color: hsl(146, 90%, 15%);
     padding: 50px;
     border-style: solid;
     border-color: red;
-    border-width: 10px;
+    border-width: 5px;
     margin: auto;
     text-align: left;
     
@@ -16,23 +16,21 @@
 .divClass {
     color:green;
     font-size: 20px;
-    
+    text-align: center;
 }
 #spanId{
     color: red;
     font-size: 18px;
     margin: 50px;
-   
+   text-align: center;
 
 }
 h1{
     color: brown;
+    text-align: center;
     
 }
 img{
     width: 400px;
-}
-
-#centrar { 
-    text-align: center;
+    align-items: center;
 }
